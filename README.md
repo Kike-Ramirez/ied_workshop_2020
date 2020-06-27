@@ -1,4 +1,4 @@
-## <img src="assets/logo_ied.png" alt="logo_ied" style="zoom:67%;" />
+## <img src="workshop_docs_assets/images/logo_ied.png" alt="logo_ied" style="zoom:67%;" />
 
 ### Master in Digital Fabrication for Interaction 
 
