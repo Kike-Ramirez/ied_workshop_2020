@@ -1,10 +1,24 @@
-# ied_workshop_2020
+# ied_node_server
+Node.js server for IED class exerciseNode.js WebSocket Example
 
-## Description
-Repository containing the code related to the Workshop of Master in Fabrication for Interaction 2020.
+------
 
-## Author 
-Kike Ramirez 
+### ONLINE EXAMPLE:
 
-## Date 
-27 - 06 - 2020
+https://iednodeserver.herokuapp.com/
+
+------
+
+### REFERENCES:
+
+* This example accompanies the [Using WebSockets on Heroku with Node.js](https://devcenter.heroku.com/articles/node-websockets) tutorial.
+* Deploy reference: https://heroku.com/deploy
+
+------
+
+### Author:
+
+Kike Ramírez, may 2020
+
+------
+
