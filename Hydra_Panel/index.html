@@ -1,42 +1,14 @@
 <!DOCTYPE html>
 <html>
-	<head>
-		<title>IED - Websockets Basic Example </title>
-    <script>
-      let HOST = location.origin.replace(/^http/, 'ws')
-      let ws = new WebSocket(HOST);
-      let el;
-
-      ws.onmessage = (event) => {
-        el = document.getElementById('server-time');
-        el.innerHTML = 'Server time: ' + event.data;
-      };
-    </script>
+  <head>
+    <title>HYDRA by Water Inc.</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.5.14/p5.js"></script>
+    <script src="sketch.js"></script>
     <style>
-      body{
-        background-color: #000000;
-        text-align:center;
-      }
-      
-      h1{
-        background-color: #ffffff;
-      }
-      
-      p{
-        font-size: 18px;
-        color: white;
-      }
-      
-      canvas{
-        border: thin solid white;
+      body {
+        margin: 0px;
       }
     </style>
-	</head>
-	<body>
-    <h1>IED - Websockets basic example</h1>
-    <p>
-    <p>
-    <p id="server-time"></p>
-	</body>
+  </head>
+  <body></body>
 </html>
-
